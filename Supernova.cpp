@@ -1,12 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 #include <string>
-#include <sstream>
-#include <iterator>
-
-using std::cout; using std::endl;
-using std::string; using std::hex;
-using std::stringstream;
 
 string hex2bin(string s)
 {
